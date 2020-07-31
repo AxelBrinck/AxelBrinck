@@ -1,8 +1,8 @@
 ### Hello everyone! 👋
 
-:round_pushpin: Im Axel, a Barcelona based programmer, :smile:
+:round_pushpin: Im Axel, I was born in US, Washington D.C. but I'm a Barcelona based programmer, :smile: living here in Spain since I was little.
 
-:floppy_disk: I write code for fun and work, yay! ✨:heart_eyes:    :bug:
+:floppy_disk: I write code because it is a **creative super-power**, and **to work**, yay! ✨:heart_eyes:    :bug:
 
 :heartpulse: If you like some of my repositories please give them stars, it will make me very happy! ありがとうございました! :star::star:
 
